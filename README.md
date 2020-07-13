@@ -5,6 +5,6 @@
   <link rel="stylesheet" href="style.css">
  </head>
  <body>
-  <b>Test</b>
+  Test
  </body>
 </html>
